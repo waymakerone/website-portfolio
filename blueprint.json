@@ -1,0 +1,30 @@
+{
+  "name": "Portfolio & Creative",
+  "slug": "website-portfolio",
+  "description": "A visually-driven portfolio for designers, photographers, artists, and creative professionals.",
+  "category": "website",
+  "framework": null,
+  "tags": ["portfolio", "designer", "photographer", "artist", "creative", "illustrator", "filmmaker", "freelancer", "agency"],
+  "is_featured": true,
+  "difficulty": "beginner",
+  "estimated_time": "15 minutes with Host Direct",
+  "commander_tools": [],
+  "app_type": "cx",
+  "sections": [
+    { "id": "hero", "name": "Hero / Introduction", "purpose": "Name, creative discipline, and one striking visual" },
+    { "id": "work", "name": "Work / Projects Grid", "purpose": "Visual grid of 6-12 projects showcasing range and quality" },
+    { "id": "about", "name": "About", "purpose": "Personal background, creative philosophy, notable clients" },
+    { "id": "process", "name": "Process", "purpose": "3-5 step creative process to set client expectations" },
+    { "id": "contact", "name": "Contact", "purpose": "Email, social media links (Instagram, Dribbble, Behance)" }
+  ],
+  "design": {
+    "colorPalette": "Minimal — black, white, one accent colour. Dark mode works well for visual creatives",
+    "typography": "Space Grotesk or Syne headings, clean sans-serif body",
+    "mood": "Confident, minimal, visually-led"
+  },
+  "what_you_build": "A visually-driven portfolio for designers, photographers, artists, and creative professionals.",
+  "starter_prompt": "I want to build a portfolio website using the WaymakerOS Portfolio blueprint. Use host_blueprint_get with blueprint_id \"website-portfolio\" to get the full blueprint, then guide me through building it with Host Direct.",
+  "seo_title": "Portfolio Website Template — Build with AI | WaymakerOS",
+  "seo_description": "Build a stunning portfolio website in minutes with AI. Project grid, about section, process — perfect for designers, photographers, and creatives.",
+  "seo_keywords": ["portfolio website template", "designer portfolio builder AI", "photographer website template"]
+}
